@@ -38,6 +38,7 @@ npm install -D prettier eslint-config-prettier eslint-plugin-prettier
   },
   ...,
 }
+```
 
 ## .prettierrc
 
